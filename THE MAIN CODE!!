@@ -1,0 +1,1 @@
+X=MsgBox("Your files have been encrypted if u press ok your files will be deleted ",0+16,"RANSOMWARE") 
